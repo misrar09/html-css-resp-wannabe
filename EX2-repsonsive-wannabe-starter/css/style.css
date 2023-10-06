@@ -128,7 +128,7 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
-
+/* For Ipad mini (tablet) */
 
 @media screen and (max-width: 768px) {
    
@@ -138,7 +138,8 @@ img {
     } 
     
 }
-
+/* --------------------------------------------- */
+/* For Mobile phone  */
 
   @media screen and (max-width: 480px) {
    
@@ -172,8 +173,6 @@ img {
     }
 
 
-}
-
-
-
+} 
+/* --------------------------------------------- */
 
